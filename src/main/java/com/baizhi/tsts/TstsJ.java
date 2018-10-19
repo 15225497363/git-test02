@@ -6,5 +6,6 @@ package com.baizhi.tsts;
 public class TstsJ {
     public static void main(String[] args) {
         System.out.println("haha");
+        System.out.println("xixi");
     }
 }
